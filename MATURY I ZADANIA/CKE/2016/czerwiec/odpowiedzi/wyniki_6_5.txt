@@ -1,0 +1,4 @@
+Najwieksza: 8066218209
+Wartosc dziesietna: 347931225
+Najmniejsza: 100002
+Wartosc dziesietna: 16

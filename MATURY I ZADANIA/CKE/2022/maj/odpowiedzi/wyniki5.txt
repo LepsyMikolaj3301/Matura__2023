@@ -1,0 +1,12 @@
+5.1 
+Gniezno		152
+Malbork		183
+Ogrodzieniec	222
+Przemysl	198
+
+5.2
+8
+od 07.10.2021 do 14.10.2021
+
+5.3
+

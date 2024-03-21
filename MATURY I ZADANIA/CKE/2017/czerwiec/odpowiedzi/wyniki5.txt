@@ -1,0 +1,42 @@
+5.1 a) 
+Wartość samochodu: 43610
+Amortyzacja z upływu czasu: 40050
+Amortyzacja z przebiegu: 5340
+5.1 b)
+DAF LF45
+ERA 132 TR
+17390
+
+5.2
+Marka		Liczba w Firmie		Średni Przbieg
+DAF		30			273240
+Iveco		12			657435
+MAN		18			289637
+Mercedes	17			486546
+Renault		17			519936
+Scania		17			557118
+Volvo		23			307130
+
+5.3
+Etykiety wierszy	2006	2007	2008	2009	2010	2011	2012	2013	2014	2015
+DAF						2	4	2	8	11	3	
+Iveco			5			2	2		3			
+MAN				1		4	2		3	3	5	
+Mercedes			1		4	4	4	1		1	2
+Renault						2	6	6	3			
+Scania						4		6	5	2		
+Volvo					4	8	2		4			5
+
+5.4
+Mercedes Atego		ERA 112 TR	722
+Iveco Strails		ERA 212 TR	708
+Iveco Strails		ERA 213 TR	708
+Iveco TrakkerEuro5	ERA 214 TR	708
+
+
+
+
+
+
+
+

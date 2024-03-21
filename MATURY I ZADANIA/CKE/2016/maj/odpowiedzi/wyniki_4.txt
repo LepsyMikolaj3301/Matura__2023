@@ -1,0 +1,12 @@
+4.1
+współrzędne punktów na brzegu:
+256	8
+200	400
+
+Liczba punktów należących do wnętrza okręgu: 7852
+
+4.2
+1000 pkt	3,228
+5000 pkt	3,1656	
+Wszystkie pkt	3,1416
+

@@ -1,0 +1,13 @@
+5.1
+a)
+Rodzaj_meczu	liczba meczy
+L		113
+P		25
+T		6
+b)
+Rok	Liczba Meczy
+2007	21
+5.2
+Nocne Pumy
+Zwinne Mewy
+5.3

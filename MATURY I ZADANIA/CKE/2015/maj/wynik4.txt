@@ -1,0 +1,10 @@
+4.1 
+Liczba liczb zawierajacych wiecej 0 niz 1: 422
+
+4.2 
+Liczba liczb podzielnych przez 2: 500
+Liczba liczb podzielnych przez 8: 123
+
+4.2 
+Numer wiersza z liczba najmniejsza: 859
+Numer wiersza z liczba najwieksza: 925
